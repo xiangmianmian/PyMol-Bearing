@@ -984,9 +984,9 @@ class SimulationoptionsInterface(QDialog, Ui_Simulationoptions):
         t=m.getSolutions('time')
         t=t[0]
         plt.plot(t,acc_x, 'r-', linewidth=0.5)
-        plt.xlabel(r'Time (s)', fontsize=22)
-        plt.ylabel(r'$\text{acc}_x$ (m/s$^2$)', fontsize=22)
-        plt.tick_params(axis='both', labelsize=24)
+        plt.xlabel(r'Time (s)')
+        plt.ylabel(r'$\text{acc}_x$ (m/s$^2$)')
+        plt.tick_params(axis='both')
         plt.show()
         plt.ion()
         
