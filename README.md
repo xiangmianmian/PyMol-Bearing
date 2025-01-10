@@ -16,6 +16,7 @@ PyMol-Bearing: A virtual bearing test bench built by Modelica and Python calling
 ### PyQt5
 - Installation link: https://pypi.org/project/PyQt5/
 
+- The process of downloading PyMol-Bearing from GitHub, creating a virtual environment using Anaconda, and using it in PyCharm can be referred to in [the installation demonstration video](https://github.com/xiangmianmian/PyMol-Bearing/blob/main/GUI%20installation%20demonstration%20video.mp4)
 ## Usage steps
 - Download the GUI file package (which includes the code for the UI interface and the Modelica model files)
 ```sh
