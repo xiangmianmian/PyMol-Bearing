@@ -16,14 +16,14 @@ PyMol-Bearing: A virtual bearing test bench built by Modelica and Python calling
 ### PyQt5
 - Installation link: https://pypi.org/project/PyQt5/
 
-- The process of downloading PyMol-Bearing from GitHub, creating a virtual environment using Anaconda, and using it in PyCharm can be referred to in [the installation demonstration video](https://github.com/xiangmianmian/PyMol-Bearing/blob/main/GUI%20installation%20demonstration%20video.mp4)
+- **The process of downloading PyMol-Bearing from GitHub, creating a virtual environment using Anaconda, and using it in PyCharm can be referred to in [the installation demonstration video](https://github.com/xiangmianmian/PyMol-Bearing/blob/main/GUI%20installation%20demonstration%20video.mp4)**
 ## Usage steps
 - Download the GUI file package (which includes the code for the UI interface and the Modelica model files)
 ```sh
 git clone https://github.com/xiangmianmian/PyMol-Bearing.git
 ```
 - Locate `login.py` in the file, and run it
-- For details, please refer to [the demo video of the GUI](https://github.com/xiangmianmian/PyMol-Bearing/blob/main/GUI%20operation%20demonstration%20video.mp4)
+- **For details, please refer to [the demo video of the GUI](https://github.com/xiangmianmian/PyMol-Bearing/blob/main/GUI%20operation%20demonstration%20video.mp4)**
        
 ### 1. Log in to the GUI
 - Open `login.py` and log in to the GUI using the username: `123` and password: `222` (customizable)
